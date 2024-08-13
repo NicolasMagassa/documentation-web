@@ -1,6 +1,6 @@
 **CSS**
 
-(http://css.mammouthland.net/border-css.php)
+http://css.mammouthland.net/border-css.php
 https://www.zonecss.fr/cours-css/les-unites-de-longueurs-css.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
 https://www.pierre-giraud.com/html-css-apprendre-coder-cours/marge-externe-margin/
