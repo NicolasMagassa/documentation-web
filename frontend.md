@@ -116,7 +116,7 @@ https://regexr.com/
 
 **cmd terminal linux**
 
-**https://www.youtips.com/de-la-manipulation-des-visibilites-de-fichiers-et-de-leur-localisation-via-le-terminal/#:~:text=votre%20r%C3%A9pertoire%20utilisateur.-,Se%20d%C3%A9placer%20dans%20les%20fichiers%20via%20le%20terminal,absolu)%20du%20r%C3%A9pertoire%20de%20destination.
+https://www.youtips.com/de-la-manipulation-des-visibilites-de-fichiers-et-de-leur-localisation-via-le-terminal/#:~:text=votre%20r%C3%A9pertoire%20utilisateur.-,Se%20d%C3%A9placer%20dans%20les%20fichiers%20via%20le%20terminal,absolu)%20du%20r%C3%A9pertoire%20de%20destination.
 
 **articles**
 
