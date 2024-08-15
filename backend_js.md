@@ -97,4 +97,7 @@ https://auth0.com/resources/ebooks/jwt-handbook?utm_source=google&utm_campaign=e
 **postgresql data type**
 https://www.postgresql.org/docs/current/datatype.html
 
+**methode merise**
+https://louisvandevelde.be/index.php?dos=my&fic=meris
+
 
