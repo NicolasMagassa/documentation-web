@@ -10,5 +10,8 @@ L'attribut No_Auteur qui est clé primaire de la table Auteur, devient clé étr
 
 <img width="1137" alt="Capture d’écran 2024-08-14 à 18 02 26" src="https://github.com/user-attachments/assets/3e7158e5-6145-4523-a681-ac70daf0f177">
 
+
+
+
 Nous devons distinguer plusieurs cas. Sachant qu'**une relation binaire du type (1,1)-(1,1) ne doit pas exister**. en effet une relation (1,1)-(1,1) entre deux entités indique que les deux entités pourraient probablement être combinées en une seule entité sans perte de fonctionnalité. Éviter ce type de relation permet de concevoir des bases de données plus simples, plus flexibles, et plus efficaces.
 
