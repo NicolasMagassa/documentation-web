@@ -10,13 +10,14 @@ L'attribut No_Auteur qui est clé primaire de la table Auteur, devient clé étr
 
 <img width="1137" alt="Capture d’écran 2024-08-14 à 18 02 26" src="https://github.com/user-attachments/assets/3e7158e5-6145-4523-a681-ac70daf0f177">
 
+>
+\n
+Nous devons distinguer plusieurs cas. Sachant qu'une relation binaire du type (1,1)-(1,1) ne doit pas exister il nous reste les 2 cas suivants:
+
+dans le cas d'une relation 1,1 On duplique la clé de la table basée sur l'entité à cardinalité (0,1) dans la table basée sur l'entité à cardinalité (1,1).
 
 
 
-
-
-
-\ndans le cas d'une relation 1,1 On duplique la clé de la table basée sur l'entité à cardinalité (0,1) dans la table basée sur l'entité à cardinalité (1,1).
-
+![Capture d’écran 2024-08-15 à 12 00 37](https://github.com/user-attachments/assets/0bd1892e-fc78-417f-9f45-3b3708acac29)
 
 
