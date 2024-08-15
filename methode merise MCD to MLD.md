@@ -9,14 +9,14 @@ L'attribut No_Auteur qui est clé primaire de la table Auteur, devient clé étr
 
 
 <img width="1137" alt="Capture d’écran 2024-08-14 à 18 02 26" src="https://github.com/user-attachments/assets/3e7158e5-6145-4523-a681-ac70daf0f177">
-\n
 
 
 
 
 
 
-dans le cas d'une relation 1,1 On duplique la clé de la table basée sur l'entité à cardinalité (0,1) dans la table basée sur l'entité à cardinalité (1,1).
+
+\ndans le cas d'une relation 1,1 On duplique la clé de la table basée sur l'entité à cardinalité (0,1) dans la table basée sur l'entité à cardinalité (1,1).
 
 
 
