@@ -38,9 +38,10 @@ https://github.com/O-clock-Dango-Empanadas-spe-integration/01-atelier-cdc-format
 
 https://jsonplaceholder.typicode.com/
 
-**communauté web**
+**communauté web (different site)**
 
 https://talks.freelancerepublik.com/le-top-des-communautes-tech-en-ligne/
+https://fr.javascript.info/
 
 **ressources officielles**
 
@@ -59,6 +60,7 @@ https://www.captaincontrat.com/contrats-commerciaux-cgv/cgv-cgu-cga/cgu-conditio
 
 **javascript**
 
+https://fr.javascript.info/
 https://www.w3schools.com/js/js_loop_forof.asp
 https://www.w3schools.com/js/js_htmldom_eventlistener.asp
 https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event
